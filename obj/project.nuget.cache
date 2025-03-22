@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "s3fIRktChAehetpuOvUiSciyxhYW9N4pTIO79zqXxy5XCgPcq34rpsfmSpEp5v4TkdnEoCAj0XJcKhFtAVsBwA==",
+  "success": true,
+  "projectFilePath": "/home/melihtakyaci/Documents/Projects/Project2/MCalc/MCalc.csproj",
+  "expectedPackageFiles": [
+    "/home/melihtakyaci/.nuget/packages/microsoft.net.illink.tasks/8.0.13/microsoft.net.illink.tasks.8.0.13.nupkg.sha512",
+    "/home/melihtakyaci/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.13/microsoft.netcore.app.runtime.linux-x64.8.0.13.nupkg.sha512",
+    "/home/melihtakyaci/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.13/microsoft.aspnetcore.app.runtime.linux-x64.8.0.13.nupkg.sha512",
+    "/home/melihtakyaci/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.13/microsoft.netcore.app.host.linux-x64.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

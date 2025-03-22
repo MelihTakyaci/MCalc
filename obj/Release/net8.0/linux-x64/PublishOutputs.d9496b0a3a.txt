@@ -1,0 +1,2 @@
+/home/melihtakyaci/Documents/Projects/Project2/MCalc/bin/Release/net8.0/linux-x64/publish/MCalc.pdb
+/home/melihtakyaci/Documents/Projects/Project2/MCalc/bin/Release/net8.0/linux-x64/publish/MCalc

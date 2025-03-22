@@ -1,0 +1,14 @@
+/home/melihtakyaci/Documents/Projects/Project2/MCalc/bin/Debug/net8.0/MCalc
+/home/melihtakyaci/Documents/Projects/Project2/MCalc/bin/Debug/net8.0/MCalc.deps.json
+/home/melihtakyaci/Documents/Projects/Project2/MCalc/bin/Debug/net8.0/MCalc.runtimeconfig.json
+/home/melihtakyaci/Documents/Projects/Project2/MCalc/bin/Debug/net8.0/MCalc.dll
+/home/melihtakyaci/Documents/Projects/Project2/MCalc/bin/Debug/net8.0/MCalc.pdb
+/home/melihtakyaci/Documents/Projects/Project2/MCalc/obj/Debug/net8.0/MCalc.GeneratedMSBuildEditorConfig.editorconfig
+/home/melihtakyaci/Documents/Projects/Project2/MCalc/obj/Debug/net8.0/MCalc.AssemblyInfoInputs.cache
+/home/melihtakyaci/Documents/Projects/Project2/MCalc/obj/Debug/net8.0/MCalc.AssemblyInfo.cs
+/home/melihtakyaci/Documents/Projects/Project2/MCalc/obj/Debug/net8.0/MCalc.csproj.CoreCompileInputs.cache
+/home/melihtakyaci/Documents/Projects/Project2/MCalc/obj/Debug/net8.0/MCalc.dll
+/home/melihtakyaci/Documents/Projects/Project2/MCalc/obj/Debug/net8.0/refint/MCalc.dll
+/home/melihtakyaci/Documents/Projects/Project2/MCalc/obj/Debug/net8.0/MCalc.pdb
+/home/melihtakyaci/Documents/Projects/Project2/MCalc/obj/Debug/net8.0/MCalc.genruntimeconfig.cache
+/home/melihtakyaci/Documents/Projects/Project2/MCalc/obj/Debug/net8.0/ref/MCalc.dll
