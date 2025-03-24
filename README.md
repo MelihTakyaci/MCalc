@@ -5,7 +5,6 @@
 
 A minimalist yet powerful terminal-based calculator with graphing capabilities, written in C#. Perfect for quick calculations without leaving your command line.
 
-![Demo](https://via.placeholder.com/800x400.png?text=MCalc+Terminal+Demo+-+Graphing+and+Calculations)
 
 ---
 
