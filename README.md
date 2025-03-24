@@ -188,7 +188,7 @@ For major changes, please open an issue first to discuss what you would like to 
 
 <div align="center">
   <p style="font-size: 1.2em; font-style: italic;">
-    <b>Created with ❤️ by Melih Takyaci</b>
+    <b>❤️ Created by Melih Takyaci</b>
   </p>
   <pre>
   ╔═╗ ╔═╗ ╔═╗ ╔═╗ ╔═╗ ╔═╗ ╔═╗ ╔═╗
