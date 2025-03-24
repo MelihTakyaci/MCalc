@@ -12,3 +12,4 @@
 /home/melihtakyaci/Documents/Projects/Project2/MCalc/obj/Debug/net8.0/MCalc.pdb
 /home/melihtakyaci/Documents/Projects/Project2/MCalc/obj/Debug/net8.0/MCalc.genruntimeconfig.cache
 /home/melihtakyaci/Documents/Projects/Project2/MCalc/obj/Debug/net8.0/ref/MCalc.dll
+/home/melihtakyaci/Documents/Projects/Project2/MCalc/obj/Debug/net8.0/MCalc.sourcelink.json

@@ -195,3 +195,4 @@
 /home/melihtakyaci/Documents/Projects/Project2/MCalc/obj/Release/net8.0/linux-x64/MCalc.pdb
 /home/melihtakyaci/Documents/Projects/Project2/MCalc/obj/Release/net8.0/linux-x64/MCalc.genruntimeconfig.cache
 /home/melihtakyaci/Documents/Projects/Project2/MCalc/obj/Release/net8.0/linux-x64/ref/MCalc.dll
+/home/melihtakyaci/Documents/Projects/Project2/MCalc/obj/Release/net8.0/linux-x64/MCalc.sourcelink.json
